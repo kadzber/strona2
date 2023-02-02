@@ -1,0 +1,40 @@
+
+.body {
+    text-align:center;
+}
+
+.center{
+    text-align: center;
+}
+
+.text1 {
+    color: #2a2b30e0;
+    text-align: center;
+    text-shadow: 100px;  
+}
+
+.text2{
+    color: orange;
+}
+
+.text3{
+    color: rgb(16, 62, 189);
+}
+
+.text4{
+    color: rgb(0, 0, 0);
+}
+
+.text5{
+    color: rgb(7, 19, 126); 
+}
+
+
+.zdjecia{
+    text-align: center;
+    
+}
+
+.galery{
+    color: rgb(224, 89, 36);
+}
